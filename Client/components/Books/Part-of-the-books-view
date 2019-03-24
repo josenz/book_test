@@ -1,0 +1,7 @@
+<div>
+                        <div className="container">
+                            <div className="row">
+                                <BookManager />
+                            </div>
+                        </div>
+                    </div>
